@@ -13,3 +13,7 @@ h2{
     background-image: url('../Sakil\ 300\ copy.jpg');
     background-repeat: no-repeat;
 }
+h1{
+    background-color: tomato;
+    padding: 50px;
+}
