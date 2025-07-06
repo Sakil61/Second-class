@@ -1,0 +1,15 @@
+
+
+h2{
+    font-size: 50px;
+    color: red;
+}
+.same{
+    font-size: 30px;
+    color:dodgerblue;
+}
+.header{
+    height: 500px;
+    background-image: url('../Sakil\ 300\ copy.jpg');
+    background-repeat: no-repeat;
+}
